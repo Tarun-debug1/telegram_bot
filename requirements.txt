@@ -1,0 +1,7 @@
+google-adk
+tzdata
+pymongo
+python-dotenv
+litellm>=1.84
+python-telegram-bot
+APScheduler>=3.10,<4

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "3f47ab92-35dc-42fd-ba3f-d24142142970",
+        "task": "learn Google ADK tools",
+        "priority": "medium",
+        "status": "pending",
+        "created_at": "2026-11-10T12:02:58.747138+05:30",
+        "date": "2026-11-10"
+    },
+    {
+        "id": "08a40b89-028b-41c0-aac5-b5088ee451b8",
+        "task": "Complete the ADK practical implementation.",
+        "priority": "medium",
+        "status": "pending",
+        "created_at": "2026-11-10T12:03:14.669699+05:30",
+        "date": "2026-11-10"
+    },
+    {
+        "id": "db194620-8541-4b31-ac6f-7260aeb3aaef",
+        "task": "Prepare today's office status report.",
+        "priority": "medium",
+        "status": "pending",
+        "created_at": "2026-11-10T12:03:16.777806+05:30",
+        "date": "2026-11-10"
+    },
+    {
+        "id": "ff5c5c9b-844b-4e05-8df7-6e9fe7709a80",
+        "task": "Implement reranking in my RAG chatbot",
+        "priority": "high",
+        "status": "completed",
+        "created_at": "2026-11-10T12:07:33.922887+05:30",
+        "date": "2026-11-10"
+    },
+    {
+        "id": "b517de43-dc34-479b-b233-b11d5d686f2a",
+        "task": "llm integration",
+        "priority": "medium",
+        "status": "pending",
+        "created_at": "2026-11-10T12:33:34.612871+05:30",
+        "date": "2026-11-10"
+    }
+]
